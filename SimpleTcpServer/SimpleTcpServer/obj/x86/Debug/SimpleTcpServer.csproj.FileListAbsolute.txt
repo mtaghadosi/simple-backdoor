@@ -1,0 +1,20 @@
+C:\Documents and Settings\Administrator\Desktop\SimpleTcpServer\SimpleTcpServer\bin\Debug\SimpleTcpServer.exe
+C:\Documents and Settings\Administrator\Desktop\SimpleTcpServer\SimpleTcpServer\bin\Debug\SimpleTcpServer.pdb
+C:\Documents and Settings\Administrator\Desktop\SimpleTcpServer\SimpleTcpServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\SimpleTcpServer\SimpleTcpServer\obj\x86\Debug\SimpleTcpServer.exe
+C:\Documents and Settings\Administrator\Desktop\SimpleTcpServer\SimpleTcpServer\obj\x86\Debug\SimpleTcpServer.pdb
+D:\darsi\network\Network\SimpleTcpServer\SimpleTcpServer\obj\x86\Debug\SimpleTcpServer.pdb
+D:\darsi\network\Network\SimpleTcpServer\SimpleTcpServer\bin\Debug\SimpleTcpServer.exe
+D:\darsi\network\Network\SimpleTcpServer\SimpleTcpServer\bin\Debug\SimpleTcpServer.pdb
+D:\darsi\network\Network\SimpleTcpServer\SimpleTcpServer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\darsi\network\Network\SimpleTcpServer\SimpleTcpServer\obj\x86\Debug\SimpleTcpServer.exe
+C:\Users\taghadosi\Desktop\SimpleTcpServer\SimpleTcpServer\obj\x86\Debug\SimpleTcpServer.exe
+C:\Users\taghadosi\Desktop\SimpleTcpServer\SimpleTcpServer\obj\x86\Debug\SimpleTcpServer.pdb
+C:\Users\taghadosi\Desktop\SimpleTcpServer\SimpleTcpServer\bin\Debug\SimpleTcpServer.exe
+C:\Users\taghadosi\Desktop\SimpleTcpServer\SimpleTcpServer\bin\Debug\SimpleTcpServer.pdb
+C:\Users\taghadosi\Desktop\SimpleTcpServer\SimpleTcpServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\taghadosi\Desktop\Desktop\SimpleTcpServer\SimpleTcpServer\obj\x86\Debug\SimpleTcpServer.exe
+C:\Users\taghadosi\Desktop\Desktop\SimpleTcpServer\SimpleTcpServer\obj\x86\Debug\SimpleTcpServer.pdb
+C:\Users\taghadosi\Desktop\Desktop\SimpleTcpServer\SimpleTcpServer\bin\Debug\SimpleTcpServer.exe
+C:\Users\taghadosi\Desktop\Desktop\SimpleTcpServer\SimpleTcpServer\bin\Debug\SimpleTcpServer.pdb
+C:\Users\taghadosi\Desktop\Desktop\SimpleTcpServer\SimpleTcpServer\obj\x86\Debug\ResolveAssemblyReference.cache

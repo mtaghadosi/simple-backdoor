@@ -1,0 +1,20 @@
+C:\Documents and Settings\Administrator\Desktop\SimpleTcpClient\SimpleTcpClient\bin\Debug\SimpleTcpClient.exe
+C:\Documents and Settings\Administrator\Desktop\SimpleTcpClient\SimpleTcpClient\bin\Debug\SimpleTcpClient.pdb
+C:\Documents and Settings\Administrator\Desktop\SimpleTcpClient\SimpleTcpClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\SimpleTcpClient\SimpleTcpClient\obj\x86\Debug\SimpleTcpClient.exe
+C:\Documents and Settings\Administrator\Desktop\SimpleTcpClient\SimpleTcpClient\obj\x86\Debug\SimpleTcpClient.pdb
+D:\darsi\network\Network\SimpleTcpClient\SimpleTcpClient\obj\x86\Debug\SimpleTcpClient.pdb
+D:\darsi\network\Network\SimpleTcpClient\SimpleTcpClient\bin\Debug\SimpleTcpClient.exe
+D:\darsi\network\Network\SimpleTcpClient\SimpleTcpClient\bin\Debug\SimpleTcpClient.pdb
+D:\darsi\network\Network\SimpleTcpClient\SimpleTcpClient\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\darsi\network\Network\SimpleTcpClient\SimpleTcpClient\obj\x86\Debug\SimpleTcpClient.exe
+C:\Users\taghadosi\Desktop\SimpleTcpClient\SimpleTcpClient\obj\x86\Debug\SimpleTcpClient.exe
+C:\Users\taghadosi\Desktop\SimpleTcpClient\SimpleTcpClient\obj\x86\Debug\SimpleTcpClient.pdb
+C:\Users\taghadosi\Desktop\SimpleTcpClient\SimpleTcpClient\bin\Debug\SimpleTcpClient.exe
+C:\Users\taghadosi\Desktop\SimpleTcpClient\SimpleTcpClient\bin\Debug\SimpleTcpClient.pdb
+C:\Users\taghadosi\Desktop\SimpleTcpClient\SimpleTcpClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\taghadosi\Desktop\Desktop\SimpleTcpClient\SimpleTcpClient\obj\x86\Debug\SimpleTcpClient.exe
+C:\Users\taghadosi\Desktop\Desktop\SimpleTcpClient\SimpleTcpClient\obj\x86\Debug\SimpleTcpClient.pdb
+C:\Users\taghadosi\Desktop\Desktop\SimpleTcpClient\SimpleTcpClient\bin\Debug\SimpleTcpClient.exe
+C:\Users\taghadosi\Desktop\Desktop\SimpleTcpClient\SimpleTcpClient\bin\Debug\SimpleTcpClient.pdb
+C:\Users\taghadosi\Desktop\Desktop\SimpleTcpClient\SimpleTcpClient\obj\x86\Debug\ResolveAssemblyReference.cache
